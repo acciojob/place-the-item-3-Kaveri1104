@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+.holder{
+	display:flex;
+	flex-flow: row nowrap;
+	column-gap:10px;
+	
+}
